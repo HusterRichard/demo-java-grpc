@@ -25,6 +25,7 @@
 	io.grpc.examples.helloworld.HelloWorldClient
 	
 **STEP3.打包运行**
+
 	3.1.编译打包
 	$ ./gradlew installDist
 
